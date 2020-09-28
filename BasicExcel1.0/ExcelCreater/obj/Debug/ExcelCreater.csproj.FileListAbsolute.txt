@@ -1,0 +1,17 @@
+C:\Users\aaron\source\repos\ExcelCreater\ExcelCreater\bin\Debug\ExcelCreater.exe.config
+C:\Users\aaron\source\repos\ExcelCreater\ExcelCreater\bin\Debug\ExcelCreater.exe
+C:\Users\aaron\source\repos\ExcelCreater\ExcelCreater\bin\Debug\ExcelCreater.pdb
+C:\Users\aaron\source\repos\ExcelCreater\ExcelCreater\bin\Debug\ClosedXML.dll
+C:\Users\aaron\source\repos\ExcelCreater\ExcelCreater\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\aaron\source\repos\ExcelCreater\ExcelCreater\bin\Debug\ExcelNumberFormat.dll
+C:\Users\aaron\source\repos\ExcelCreater\ExcelCreater\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\aaron\source\repos\ExcelCreater\ExcelCreater\bin\Debug\System.IO.Packaging.dll
+C:\Users\aaron\source\repos\ExcelCreater\ExcelCreater\bin\Debug\ClosedXML.pdb
+C:\Users\aaron\source\repos\ExcelCreater\ExcelCreater\bin\Debug\ClosedXML.xml
+C:\Users\aaron\source\repos\ExcelCreater\ExcelCreater\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\aaron\source\repos\ExcelCreater\ExcelCreater\bin\Debug\ExcelNumberFormat.xml
+C:\Users\aaron\source\repos\ExcelCreater\ExcelCreater\obj\Debug\ExcelCreater.csprojAssemblyReference.cache
+C:\Users\aaron\source\repos\ExcelCreater\ExcelCreater\obj\Debug\ExcelCreater.csproj.CoreCompileInputs.cache
+C:\Users\aaron\source\repos\ExcelCreater\ExcelCreater\obj\Debug\ExcelCreater.csproj.CopyComplete
+C:\Users\aaron\source\repos\ExcelCreater\ExcelCreater\obj\Debug\ExcelCreater.exe
+C:\Users\aaron\source\repos\ExcelCreater\ExcelCreater\obj\Debug\ExcelCreater.pdb
